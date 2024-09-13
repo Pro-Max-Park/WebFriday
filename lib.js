@@ -1,0 +1,1 @@
+New JS is ready.
